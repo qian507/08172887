@@ -1,0 +1,6 @@
+public static users getUser() {
+	     return user;
+	}
+	public static void setUser(users user) {
+		LoginFrame.user = user;
+	}
